@@ -89,7 +89,7 @@ Yumly is a smart, cross-platform mobile app that transforms your cooking experie
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/yumly.git
+   git clone https://github.com/Vinamra04/Yumly.git
    cd yumly
    ```
 
