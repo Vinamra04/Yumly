@@ -86,4 +86,4 @@ class DefaultFirebaseOptions {
     storageBucket: dotenv.env['FIREBASE_STORAGE_BUCKET'] ?? '',
     measurementId: dotenv.env['FIREBASE_MEASUREMENT_ID_WINDOWS'] ?? '',
   );
-}
+} 
