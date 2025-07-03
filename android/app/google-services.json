@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "901306230100",
+    "project_id": "yumly-b1bb6",
+    "storage_bucket": "yumly-b1bb6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901306230100:android:b932e1349e831b4ab194c1",
+        "android_client_info": {
+          "package_name": "com.company.yumly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901306230100-j5aipdgig302sgdne0opnclve55k7ji1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.yumly",
+            "certificate_hash": "a957b347d81f0b3ada3e15028eb4e55d5d1649b3"
+          }
+        },
+        {
+          "client_id": "901306230100-v5p1jkbdv40pq7ubbn8k2pknh0dt8elb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHtkBiz9joc7VQbJKnmuZovY3_ToCRTjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901306230100-v5p1jkbdv40pq7ubbn8k2pknh0dt8elb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "901306230100-v7talh2k8pcmtes4e2gm16llvv1ef6pd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.yumly"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901306230100:android:17780bc3c0a2d915b194c1",
+        "android_client_info": {
+          "package_name": "com.example.yumly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901306230100-v5p1jkbdv40pq7ubbn8k2pknh0dt8elb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHtkBiz9joc7VQbJKnmuZovY3_ToCRTjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901306230100-v5p1jkbdv40pq7ubbn8k2pknh0dt8elb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "901306230100-v7talh2k8pcmtes4e2gm16llvv1ef6pd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.yumly"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
